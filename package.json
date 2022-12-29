@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GokulRavi1598/SampleModeStrap.git"
+    "url": "git+https://github.com/GokulRavi1598/SampleModeStrap.git"
   },
   "author": "Gokul",
   "license": "MIT",
