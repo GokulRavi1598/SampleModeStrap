@@ -1,0 +1,13 @@
+# Editors
+.vscode
+.idea
+*.sublime-*
+
+# NPM Registry
+.npmrc
+
+dist/
+public/
+coverage/
+node_modules/
+.DS_Store
