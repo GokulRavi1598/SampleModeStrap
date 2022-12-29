@@ -1,6 +1,6 @@
 {
   "name": "@gokulravi/samplemodestrap",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Sample Mode strap component",
   "main": "index.js",
   "scripts": {
